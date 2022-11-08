@@ -52,6 +52,10 @@ margin-bottom: 89px;
     text-align: center;
     color: #F66F4D;
  }
+ .click:hover{
+    background-color:  #F66F4D;
+    color: #FFFFFF;
+ }
 .main-text{
     display: flex;
     justify-content: center;
@@ -89,6 +93,10 @@ margin-bottom: 89px;
     border-radius: 30px;
     padding: 10px 20px;    
     cursor: pointer; 
+}
+.city:hover {
+    background-color: #2D3134;
+    color: #FFFFFF;
 }
 .grid-sector{
     width: 1170px;
